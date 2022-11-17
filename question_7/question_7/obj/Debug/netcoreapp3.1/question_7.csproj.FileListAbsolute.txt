@@ -1,0 +1,13 @@
+C:\Users\rasko\Desktop\oop mark\question_7\question_7\obj\Debug\netcoreapp3.1\question_7.csprojAssemblyReference.cache
+C:\Users\rasko\Desktop\oop mark\question_7\question_7\obj\Debug\netcoreapp3.1\question_7.csproj.CoreCompileInputs.cache
+C:\Users\rasko\Desktop\oop mark\question_7\question_7\obj\Debug\netcoreapp3.1\question_7.AssemblyInfoInputs.cache
+C:\Users\rasko\Desktop\oop mark\question_7\question_7\obj\Debug\netcoreapp3.1\question_7.AssemblyInfo.cs
+C:\Users\rasko\Desktop\oop mark\question_7\question_7\bin\Debug\netcoreapp3.1\question_7.exe
+C:\Users\rasko\Desktop\oop mark\question_7\question_7\bin\Debug\netcoreapp3.1\question_7.deps.json
+C:\Users\rasko\Desktop\oop mark\question_7\question_7\bin\Debug\netcoreapp3.1\question_7.runtimeconfig.json
+C:\Users\rasko\Desktop\oop mark\question_7\question_7\bin\Debug\netcoreapp3.1\question_7.runtimeconfig.dev.json
+C:\Users\rasko\Desktop\oop mark\question_7\question_7\bin\Debug\netcoreapp3.1\question_7.dll
+C:\Users\rasko\Desktop\oop mark\question_7\question_7\bin\Debug\netcoreapp3.1\question_7.pdb
+C:\Users\rasko\Desktop\oop mark\question_7\question_7\obj\Debug\netcoreapp3.1\question_7.dll
+C:\Users\rasko\Desktop\oop mark\question_7\question_7\obj\Debug\netcoreapp3.1\question_7.pdb
+C:\Users\rasko\Desktop\oop mark\question_7\question_7\obj\Debug\netcoreapp3.1\question_7.genruntimeconfig.cache

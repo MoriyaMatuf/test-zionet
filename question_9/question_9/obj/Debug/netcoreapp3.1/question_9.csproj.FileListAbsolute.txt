@@ -1,0 +1,13 @@
+C:\Users\rasko\Desktop\mark-oop\question_9\question_9\bin\Debug\netcoreapp3.1\question_9.exe
+C:\Users\rasko\Desktop\mark-oop\question_9\question_9\bin\Debug\netcoreapp3.1\question_9.deps.json
+C:\Users\rasko\Desktop\mark-oop\question_9\question_9\bin\Debug\netcoreapp3.1\question_9.runtimeconfig.json
+C:\Users\rasko\Desktop\mark-oop\question_9\question_9\bin\Debug\netcoreapp3.1\question_9.runtimeconfig.dev.json
+C:\Users\rasko\Desktop\mark-oop\question_9\question_9\bin\Debug\netcoreapp3.1\question_9.dll
+C:\Users\rasko\Desktop\mark-oop\question_9\question_9\bin\Debug\netcoreapp3.1\question_9.pdb
+C:\Users\rasko\Desktop\mark-oop\question_9\question_9\obj\Debug\netcoreapp3.1\question_9.csprojAssemblyReference.cache
+C:\Users\rasko\Desktop\mark-oop\question_9\question_9\obj\Debug\netcoreapp3.1\question_9.csproj.CoreCompileInputs.cache
+C:\Users\rasko\Desktop\mark-oop\question_9\question_9\obj\Debug\netcoreapp3.1\question_9.AssemblyInfoInputs.cache
+C:\Users\rasko\Desktop\mark-oop\question_9\question_9\obj\Debug\netcoreapp3.1\question_9.AssemblyInfo.cs
+C:\Users\rasko\Desktop\mark-oop\question_9\question_9\obj\Debug\netcoreapp3.1\question_9.dll
+C:\Users\rasko\Desktop\mark-oop\question_9\question_9\obj\Debug\netcoreapp3.1\question_9.pdb
+C:\Users\rasko\Desktop\mark-oop\question_9\question_9\obj\Debug\netcoreapp3.1\question_9.genruntimeconfig.cache
